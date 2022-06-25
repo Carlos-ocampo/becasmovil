@@ -6,8 +6,8 @@ import { Injectable } from '@angular/core';
 })
 export class ApiservService {
   url =  'http://127.0.0.1:8000/';
-  // userToken  = '';
-  userToken  = '0b4b30363bdf98129a60a2a8dba5449413f9a2d7';
+  userToken  = '';
+  // userToken  = '0b4b30363bdf98129a60a2a8dba5449413f9a2d7';
 
   constructor(public http: HttpClient) { }
   
@@ -24,7 +24,6 @@ export class ApiservService {
     });
   }
 
-
   getUserTokenSetted(){
     return this.userToken;
   }
@@ -32,7 +31,6 @@ export class ApiservService {
   setUserToken(token){
     this.userToken = token;
   }
-
 
   // paises
   getPaises(){

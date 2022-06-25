@@ -115,7 +115,7 @@ python becas_api/manage.py runserver
 
 ### Manage Frontend
 
-### En case de instalación
+#### En caso de instalación
 
 ```sh
 cd frontend
@@ -133,4 +133,21 @@ cd frontend
 cd beca_vue
 npm run dev
 
+```
+
+### Manage Mobil
+
+#### en caso de instalación
+
+```sh
+cd mobile
+npm install
+ionic serve -l
+```
+
+#### Levantar servidor
+
+```sh
+cd mobile
+ionic serve -l
 ```

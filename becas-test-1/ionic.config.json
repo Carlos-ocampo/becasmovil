@@ -1,7 +1,0 @@
-{
-  "name": "Becas test1",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
