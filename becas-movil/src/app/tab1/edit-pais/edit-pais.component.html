@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-button color="medium" (click)="cancel()">Cancelar</ion-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button (click)="confirm()">
+        <span *ngIf="updateStatus">Actualizar</span>
+        <span *ngIf="!updateStatus">Guardar</span>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+<ion-item> {{ tituloAccion }}</ion-item>
+
+<ion-content class="ion-padding">
+  <ion-item *ngIf="updateStatus">
+    <ion-label position="stacked">ID</ion-label>
+    <ion-input [(ngModel)]="id" placeholder="ID" disabled="true"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-label position="stacked">Country Name</ion-label>
+    <ion-input [(ngModel)]="name" placeholder="Country Name"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-label position="stacked">Country Emoji</ion-label>
+    <ion-input [(ngModel)]="emoji" placeholder="Country Emoji"></ion-input>
+  </ion-item>
+  <ion-button expand="full" (click)="confirm()">Guardar</ion-button>
+  <ion-button *ngIf="updateStatus" expand="full" color="danger" (click)="deleteCountry()">Eliminar</ion-button>
+</ion-content>

@@ -1,0 +1,1568 @@
+[
+    {
+      "name": "Ascension Island",
+      "emoji": "🇦🇨",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AC.svg",
+      "sname": "Isla Ascensión"
+    },
+    {
+      "name": "Andorra",
+      "emoji": "🇦🇩",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AD.svg",
+      "sname": " Andorra"
+    },
+    {
+      "name": "United Arab Emirates",
+      "emoji": "🇦🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AE.svg",
+      "sname": " Emiratos Árabes Unidos"
+    },
+    {
+      "name": "Afghanistan",
+      "emoji": "🇦🇫",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AF.svg",
+      "sname": " Afganistán"
+    },
+    {
+      "name": "Antigua & Barbuda",
+      "emoji": "🇦🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AG.svg",
+      "sname": " Antigua y Barbuda"
+    },
+    {
+      "name": "Anguilla",
+      "emoji": "🇦🇮",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AI.svg",
+      "sname": " Anguila"
+    },
+    {
+      "name": "Albania",
+      "emoji": "🇦🇱",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AL.svg",
+      "sname": " Albania"
+    },
+    {
+      "name": "Armenia",
+      "emoji": "🇦🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AM.svg",
+      "sname": " Armenia"
+    },
+    {
+      "name": "Angola",
+      "emoji": "🇦🇴",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AO.svg",
+      "sname": " Angola"
+    },
+    {
+      "name": "Antarctica",
+      "emoji": "🇦🇶",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AQ.svg",
+      "sname": " Antártida"
+    },
+    {
+      "name": "Argentina",
+      "emoji": "🇦🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg",
+      "sname": " Argentina"
+    },
+    {
+      "name": "American Samoa",
+      "emoji": "🇦🇸",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AS.svg",
+      "sname": " Samoa Americana"
+    },
+    {
+      "name": "Austria",
+      "emoji": "🇦🇹",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AT.svg",
+      "sname": " Austria"
+    },
+    {
+      "name": "Australia",
+      "emoji": "🇦🇺",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AU.svg",
+      "sname": " Australia"
+    },
+    {
+      "name": "Aruba",
+      "emoji": "🇦🇼",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AW.svg",
+      "sname": " Aruba"
+    },
+    {
+      "name": "Åland Islands",
+      "emoji": "🇦🇽",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AX.svg",
+      "sname": " Islas Åland"
+    },
+    {
+      "name": "Azerbaijan",
+      "emoji": "🇦🇿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AZ.svg",
+      "sname": " Azerbaiyán"
+    },
+    {
+      "name": "Bosnia & Herzegovina",
+      "emoji": "🇧🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BA.svg",
+      "sname": " Bosnia y Herzegovina"
+    },
+    {
+      "name": "Barbados",
+      "emoji": "🇧🇧",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BB.svg",
+      "sname": " Barbados"
+    },
+    {
+      "name": "Bangladesh",
+      "emoji": "🇧🇩",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg",
+      "sname": " Bangladesh"
+    },
+    {
+      "name": "Belgium",
+      "emoji": "🇧🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BE.svg",
+      "sname": " Bélgica "
+    },
+    {
+      "name": "Burkina Faso",
+      "emoji": "🇧🇫",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BF.svg",
+      "sname": "Burkina Faso"
+    },
+    {
+      "name": "Bulgaria",
+      "emoji": "🇧🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BG.svg",
+      "sname": "Bulgaria"
+    },
+    {
+      "name": "Bahrain",
+      "emoji": "🇧🇭",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BH.svg",
+      "sname": "Bahrein"
+    },
+    {
+      "name": "Burundi",
+      "emoji": "🇧🇮",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BI.svg",
+      "sname": "Burundi"
+    },
+    {
+      "name": "Benin",
+      "emoji": "🇧🇯",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BJ.svg",
+      "sname": "Benin"
+    },
+    {
+      "name": "St. Barthélemy",
+      "emoji": "🇧🇱",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BL.svg",
+      "sname": "St. Barthélemy"
+    },
+    {
+      "name": "Bermuda",
+      "emoji": "🇧🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BM.svg",
+      "sname": "Bermudas"
+    },
+    {
+      "name": "Brunei",
+      "emoji": "🇧🇳",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BN.svg",
+      "sname": "Brunei"
+    },
+    {
+      "name": "Bolivia",
+      "emoji": "🇧🇴",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BO.svg",
+      "sname": "Bolivia"
+    },
+    {
+      "name": "Caribbean Netherlands",
+      "emoji": "🇧🇶",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BQ.svg",
+      "sname": "Caribe Neerlandés"
+    },
+    {
+      "name": "Brazil",
+      "emoji": "🇧🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg",
+      "sname": "Brasil"
+    },
+    {
+      "name": "Bahamas",
+      "emoji": "🇧🇸",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BS.svg",
+      "sname": "Bahamas"
+    },
+    {
+      "name": "Bhutan",
+      "emoji": "🇧🇹",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BT.svg",
+      "sname": "Bután"
+    },
+    {
+      "name": "Bouvet Island",
+      "emoji": "🇧🇻",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BV.svg",
+      "sname": "Isla Bouvet"
+    },
+    {
+      "name": "Botswana",
+      "emoji": "🇧🇼",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BW.svg",
+      "sname": "Botswana"
+    },
+    {
+      "name": "Belarus",
+      "emoji": "🇧🇾",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BY.svg",
+      "sname": "Bielorrusia"
+    },
+    {
+      "name": "Belize",
+      "emoji": "🇧🇿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BZ.svg",
+      "sname": "Belice"
+    },
+    {
+      "name": "Canada",
+      "emoji": "🇨🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+      "sname": "Canadá"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "emoji": "🇨🇨",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CC.svg",
+      "sname": "Islas Cocos (Keeling)"
+    },
+    {
+      "name": "Congo - Kinshasa",
+      "emoji": "🇨🇩",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CD.svg",
+      "sname": "Congo - Kinshasa"
+    },
+    {
+      "name": "Central African Republic",
+      "emoji": "🇨🇫",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CF.svg",
+      "sname": "República Centroafricana"
+    },
+    {
+      "name": "Congo - Brazzaville",
+      "emoji": "🇨🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CG.svg",
+      "sname": "Congo - Brazzaville"
+    },
+    {
+      "name": "Switzerland",
+      "emoji": "🇨🇭",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CH.svg",
+      "sname": "Suiza"
+    },
+    {
+      "name": "Côte d’Ivoire",
+      "emoji": "🇨🇮",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CI.svg",
+      "sname": "Côte d Marfil"
+    },
+    {
+      "name": "Cook Islands",
+      "emoji": "🇨🇰",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CK.svg",
+      "sname": " Islas Cook"
+    },
+    {
+      "name": "Chile",
+      "emoji": "🇨🇱",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CL.svg",
+      "sname": " Chile"
+    },
+    {
+      "name": "Cameroon",
+      "emoji": "🇨🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CM.svg",
+      "sname": " Camerún"
+    },
+    {
+      "name": "China",
+      "emoji": "🇨🇳",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CN.svg",
+      "sname": " China"
+    },
+    {
+      "name": "Colombia",
+      "emoji": "🇨🇴",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CO.svg",
+      "sname": " Colombia"
+    },
+    {
+      "name": "Clipperton Island",
+      "emoji": "🇨🇵",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CP.svg",
+      "sname": " Isla Clipperton"
+    },
+    {
+      "name": "Costa Rica",
+      "emoji": "🇨🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CR.svg",
+      "sname": " Costa Rica"
+    },
+    {
+      "name": "Cuba",
+      "emoji": "🇨🇺",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CU.svg",
+      "sname": " Cuba"
+    },
+    {
+      "name": "Cape Verde",
+      "emoji": "🇨🇻",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CV.svg",
+      "sname": " Cabo Verde"
+    },
+    {
+      "name": "Curaçao",
+      "emoji": "🇨🇼",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CW.svg",
+      "sname": " Curazao"
+    },
+    {
+      "name": "Christmas Island",
+      "emoji": "🇨🇽",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CX.svg",
+      "sname": " Isla Christmas"
+    },
+    {
+      "name": "Cyprus",
+      "emoji": "🇨🇾",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CY.svg",
+      "sname": " Chipre"
+    },
+    {
+      "name": "Czechia",
+      "emoji": "🇨🇿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CZ.svg",
+      "sname": " Chequia"
+    },
+    {
+      "name": "Germany",
+      "emoji": "🇩🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg",
+      "sname": " Alemania"
+    },
+    {
+      "name": "Diego Garcia",
+      "emoji": "🇩🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DG.svg",
+      "sname": " Diego García"
+    },
+    {
+      "name": "Djibouti",
+      "emoji": "🇩🇯",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DJ.svg",
+      "sname": " Yibuti"
+    },
+    {
+      "name": "Denmark",
+      "emoji": "🇩🇰",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg",
+      "sname": " Dinamarca"
+    },
+    {
+      "name": "Dominica",
+      "emoji": "🇩🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DM.svg",
+      "sname": " Dominica"
+    },
+    {
+      "name": "Dominican Republic",
+      "emoji": "🇩🇴",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DO.svg",
+      "sname": " República Dominicana"
+    },
+    {
+      "name": "Algeria",
+      "emoji": "🇩🇿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DZ.svg",
+      "sname": " Argelia"
+    },
+    {
+      "name": "Ceuta & Melilla",
+      "emoji": "🇪🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EA.svg",
+      "sname": " Ceuta y Melilla"
+    },
+    {
+      "name": "Ecuador",
+      "emoji": "🇪🇨",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EC.svg",
+      "sname": " Ecuador"
+    },
+    {
+      "name": "Estonia",
+      "emoji": "🇪🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EE.svg",
+      "sname": " Estonia"
+    },
+    {
+      "name": "Egypt",
+      "emoji": "🇪🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EG.svg",
+      "sname": " Egipto"
+    },
+    {
+      "name": "Western Sahara",
+      "emoji": "🇪🇭",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EH.svg",
+      "sname": " Sáhara Occidental"
+    },
+    {
+      "name": "Eritrea",
+      "emoji": "🇪🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ER.svg",
+      "sname": " Eritrea"
+    },
+    {
+      "name": "Spain",
+      "emoji": "🇪🇸",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg",
+      "sname": " España"
+    },
+    {
+      "name": "Ethiopia",
+      "emoji": "🇪🇹",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ET.svg",
+      "sname": " Etiopía"
+    },
+    {
+      "name": "European Union",
+      "emoji": "🇪🇺",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EU.svg",
+      "sname": " Unión Europea"
+    },
+    {
+      "name": "Finland",
+      "emoji": "🇫🇮",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FI.svg",
+      "sname": " Finlandia"
+    },
+    {
+      "name": "Fiji",
+      "emoji": "🇫🇯",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FJ.svg",
+      "sname": " Fiji"
+    },
+    {
+      "name": "Falkland Islands",
+      "emoji": "🇫🇰",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FK.svg",
+      "sname": " Islas Malvinas"
+    },
+    {
+      "name": "Micronesia",
+      "emoji": "🇫🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FM.svg",
+      "sname": " Micronesia"
+    },
+    {
+      "name": "Faroe Islands",
+      "emoji": "🇫🇴",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FO.svg",
+      "sname": " Islas Feroe"
+    },
+    {
+      "name": "France",
+      "emoji": "🇫🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg",
+      "sname": " Francia"
+    },
+    {
+      "name": "Gabon",
+      "emoji": "🇬🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GA.svg",
+      "sname": " Gabón"
+    },
+    {
+      "name": "United Kingdom",
+      "emoji": "🇬🇧",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GB.svg",
+      "sname": " Reino Unido"
+    },
+    {
+      "name": "Grenada",
+      "emoji": "🇬🇩",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GD.svg",
+      "sname": " Granada"
+    },
+    {
+      "name": "Georgia",
+      "emoji": "🇬🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GE.svg",
+      "sname": " Georgia"
+    },
+    {
+      "name": "French Guiana",
+      "emoji": "🇬🇫",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GF.svg",
+      "sname": " Guayana Francesa"
+    },
+    {
+      "name": "Guernsey",
+      "emoji": "🇬🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GG.svg",
+      "sname": " Guernsey"
+    },
+    {
+      "name": "Ghana",
+      "emoji": "🇬🇭",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GH.svg",
+      "sname": " Ghana"
+    },
+    {
+      "name": "Gibraltar",
+      "emoji": "🇬🇮",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GI.svg",
+      "sname": "Gibraltar"
+    },
+    {
+      "name": "Greenland",
+      "emoji": "🇬🇱",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GL.svg",
+      "sname": "Groenlandia"
+    },
+    {
+      "name": "Gambia",
+      "emoji": "🇬🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GM.svg",
+      "sname": "Gambia"
+    },
+    {
+      "name": "Guinea",
+      "emoji": "🇬🇳",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GN.svg",
+      "sname": "Guinea"
+    },
+    {
+      "name": "Guadeloupe",
+      "emoji": "🇬🇵",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GP.svg",
+      "sname": "Guadalupe"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "emoji": "🇬🇶",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GQ.svg",
+      "sname": "Guinea Ecuatorial"
+    },
+    {
+      "name": "Greece",
+      "emoji": "🇬🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GR.svg",
+      "sname": "Grecia"
+    },
+    {
+      "name": "South Georgia & South Sandwich Islands",
+      "emoji": "🇬🇸",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GS.svg",
+      "sname": "Georgia del Sur y Sandwich del Sur"
+    },
+    {
+      "name": "Guatemala",
+      "emoji": "🇬🇹",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GT.svg",
+      "sname": "Guatemala"
+    },
+    {
+      "name": "Guam",
+      "emoji": "🇬🇺",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GU.svg",
+      "sname": "Guam"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "emoji": "🇬🇼",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GW.svg",
+      "sname": "Guinea-Bissau"
+    },
+    {
+      "name": "Guyana",
+      "emoji": "🇬🇾",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GY.svg",
+      "sname": "Guyana"
+    },
+    {
+      "name": "Hong Kong SAR China",
+      "emoji": "🇭🇰",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HK.svg",
+      "sname": "Hong Kong SAR China"
+    },
+    {
+      "name": "Heard & McDonald Islands",
+      "emoji": "🇭🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HM.svg",
+      "sname": "Islas Heard y McDonald"
+    },
+    {
+      "name": "Honduras",
+      "emoji": "🇭🇳",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HN.svg",
+      "sname": "Honduras"
+    },
+    {
+      "name": "Croatia",
+      "emoji": "🇭🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HR.svg",
+      "sname": "Croacia"
+    },
+    {
+      "name": "Haiti",
+      "emoji": "🇭🇹",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HT.svg",
+      "sname": "Haití"
+    },
+    {
+      "name": "Hungary",
+      "emoji": "🇭🇺",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HU.svg",
+      "sname": " Hungría"
+    },
+    {
+      "name": "Canary Islands",
+      "emoji": "🇮🇨",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IC.svg",
+      "sname": " Islas Canarias"
+    },
+    {
+      "name": "Indonesia",
+      "emoji": "🇮🇩",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ID.svg",
+      "sname": " Indonesia"
+    },
+    {
+      "name": "Ireland",
+      "emoji": "🇮🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IE.svg",
+      "sname": " Irlanda"
+    },
+    {
+      "name": "Israel",
+      "emoji": "🇮🇱",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IL.svg",
+      "sname": " Israel"
+    },
+    {
+      "name": "Isle of Man",
+      "emoji": "🇮🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IM.svg",
+      "sname": " Isla de Man"
+    },
+    {
+      "name": "India",
+      "emoji": "🇮🇳",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg",
+      "sname": " India"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "emoji": "🇮🇴",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IO.svg",
+      "sname": " Territorio Británico del Océano Índico"
+    },
+    {
+      "name": "Iraq",
+      "emoji": "🇮🇶",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IQ.svg",
+      "sname": " Irak"
+    },
+    {
+      "name": "Iran",
+      "emoji": "🇮🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg",
+      "sname": " Irán"
+    },
+    {
+      "name": "Iceland",
+      "emoji": "🇮🇸",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IS.svg",
+      "sname": " Islandia"
+    },
+    {
+      "name": "Italy",
+      "emoji": "🇮🇹",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IT.svg",
+      "sname": " Italia"
+    },
+    {
+      "name": "Jersey",
+      "emoji": "🇯🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JE.svg",
+      "sname": " Jersey"
+    },
+    {
+      "name": "Jamaica",
+      "emoji": "🇯🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JM.svg",
+      "sname": " Mermelada aica"
+    },
+    {
+      "name": "Jordan",
+      "emoji": "🇯🇴",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JO.svg",
+      "sname": " Jordania"
+    },
+    {
+      "name": "Japan",
+      "emoji": "🇯🇵",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JP.svg",
+      "sname": " Japón"
+    },
+    {
+      "name": "Kenya",
+      "emoji": "🇰🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KE.svg",
+      "sname": " Kenia"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "emoji": "🇰🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KG.svg",
+      "sname": " Kirguistán"
+    },
+    {
+      "name": "Cambodia",
+      "emoji": "🇰🇭",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KH.svg",
+      "sname": " Camboya"
+    },
+    {
+      "name": "Kiribati",
+      "emoji": "🇰🇮",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KI.svg",
+      "sname": " Kiribati"
+    },
+    {
+      "name": "Comoros",
+      "emoji": "🇰🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KM.svg",
+      "sname": " Comoras"
+    },
+    {
+      "name": "St. Kitts & Nevis",
+      "emoji": "🇰🇳",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KN.svg",
+      "sname": " St. San Cristóbal y Nieves"
+    },
+    {
+      "name": "North Korea",
+      "emoji": "🇰🇵",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KP.svg",
+      "sname": " Corea del Norte"
+    },
+    {
+      "name": "South Korea",
+      "emoji": "🇰🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KR.svg",
+      "sname": " Corea del Sur"
+    },
+    {
+      "name": "Kuwait",
+      "emoji": "🇰🇼",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KW.svg",
+      "sname": " Kuwait"
+    },
+    {
+      "name": "Cayman Islands",
+      "emoji": "🇰🇾",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KY.svg",
+      "sname": " Islas Caimán"
+    },
+    {
+      "name": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KZ.svg",
+      "sname": " Kazajstán"
+    },
+    {
+      "name": "Laos",
+      "emoji": "🇱🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LA.svg",
+      "sname": " Laos"
+    },
+    {
+      "name": "Lebanon",
+      "emoji": "🇱🇧",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LB.svg",
+      "sname": " Líbano"
+    },
+    {
+      "name": "St. Lucia",
+      "emoji": "🇱🇨",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LC.svg",
+      "sname": " St. Lucía"
+    },
+    {
+      "name": "Liechtenstein",
+      "emoji": "🇱🇮",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LI.svg",
+      "sname": " Liechtenstein"
+    },
+    {
+      "name": "Sri Lanka",
+      "emoji": "🇱🇰",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LK.svg",
+      "sname": " Sri Lanka"
+    },
+    {
+      "name": "Liberia",
+      "emoji": "🇱🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LR.svg",
+      "sname": " Liberia"
+    },
+    {
+      "name": "Lesotho",
+      "emoji": "🇱🇸",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LS.svg",
+      "sname": " Lesotho"
+    },
+    {
+      "name": "Lithuania",
+      "emoji": "🇱🇹",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LT.svg",
+      "sname": " Lituania"
+    },
+    {
+      "name": "Luxembourg",
+      "emoji": "🇱🇺",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LU.svg",
+      "sname": " Luxemburgo"
+    },
+    {
+      "name": "Latvia",
+      "emoji": "🇱🇻",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LV.svg",
+      "sname": " Letonia"
+    },
+    {
+      "name": "Libya",
+      "emoji": "🇱🇾",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LY.svg",
+      "sname": " Libia"
+    },
+    {
+      "name": "Morocco",
+      "emoji": "🇲🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MA.svg",
+      "sname": " Marruecos"
+    },
+    {
+      "name": "Monaco",
+      "emoji": "🇲🇨",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MC.svg",
+      "sname": " Mónaco"
+    },
+    {
+      "name": "Moldova",
+      "emoji": "🇲🇩",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MD.svg",
+      "sname": " Moldavia"
+    },
+    {
+      "name": "Montenegro",
+      "emoji": "🇲🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ME.svg",
+      "sname": " Montenegro"
+    },
+    {
+      "name": "St. Martin",
+      "emoji": "🇲🇫",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MF.svg",
+      "sname": " St. Martin"
+    },
+    {
+      "name": "Madagascar",
+      "emoji": "🇲🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MG.svg",
+      "sname": " Madagascar"
+    },
+    {
+      "name": "Marshall Islands",
+      "emoji": "🇲🇭",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MH.svg",
+      "sname": " Islas Marshall"
+    },
+    {
+      "name": "North Macedonia",
+      "emoji": "🇲🇰",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MK.svg",
+      "sname": " Macedonia del Norte"
+    },
+    {
+      "name": "Mali",
+      "emoji": "🇲🇱",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ML.svg",
+      "sname": " Malí"
+    },
+    {
+      "name": "Myanmar (Burma)",
+      "emoji": "🇲🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MM.svg",
+      "sname": " Myanmar (Birmania)"
+    },
+    {
+      "name": "Mongolia",
+      "emoji": "🇲🇳",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MN.svg",
+      "sname": " Mongolia"
+    },
+    {
+      "name": "Macao SAR China",
+      "emoji": "🇲🇴",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MO.svg",
+      "sname": " Macao SAR China"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "emoji": "🇲🇵",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MP.svg",
+      "sname": " Islas Marianas del Norte"
+    },
+    {
+      "name": "Martinique",
+      "emoji": "🇲🇶",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MQ.svg",
+      "sname": " Martinica"
+    },
+    {
+      "name": "Mauritania",
+      "emoji": "🇲🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MR.svg",
+      "sname": " Mauritania"
+    },
+    {
+      "name": "Montserrat",
+      "emoji": "🇲🇸",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MS.svg",
+      "sname": " Montserrat"
+    },
+    {
+      "name": "Malta",
+      "emoji": "🇲🇹",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MT.svg",
+      "sname": " Malta"
+    },
+    {
+      "name": "Mauritius",
+      "emoji": "🇲🇺",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MU.svg",
+      "sname": " Mauricio"
+    },
+    {
+      "name": "Maldives",
+      "emoji": "🇲🇻",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MV.svg",
+      "sname": " Maldivas"
+    },
+    {
+      "name": "Malawi",
+      "emoji": "🇲🇼",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MW.svg",
+      "sname": " Malawi"
+    },
+    {
+      "name": "Mexico",
+      "emoji": "🇲🇽",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg",
+      "sname": " México"
+    },
+    {
+      "name": "Malaysia",
+      "emoji": "🇲🇾",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MY.svg",
+      "sname": " Malasia"
+    },
+    {
+      "name": "Mozambique",
+      "emoji": "🇲🇿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MZ.svg",
+      "sname": " Mozambique"
+    },
+    {
+      "name": "Namibia",
+      "emoji": "🇳🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NA.svg",
+      "sname": " Namibia"
+    },
+    {
+      "name": "New Caledonia",
+      "emoji": "🇳🇨",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NC.svg",
+      "sname": " Nuevo Caledonia"
+    },
+    {
+      "name": "Niger",
+      "emoji": "🇳🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NE.svg",
+      "sname": " Níger"
+    },
+    {
+      "name": "Norfolk Island",
+      "emoji": "🇳🇫",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NF.svg",
+      "sname": " Isla Norfolk"
+    },
+    {
+      "name": "Nigeria",
+      "emoji": "🇳🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NG.svg",
+      "sname": " Nigeria"
+    },
+    {
+      "name": "Nicaragua",
+      "emoji": "🇳🇮",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NI.svg",
+      "sname": " Nicaragua"
+    },
+    {
+      "name": "Netherlands",
+      "emoji": "🇳🇱",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg",
+      "sname": " Países Bajos"
+    },
+    {
+      "name": "Norway",
+      "emoji": "🇳🇴",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NO.svg",
+      "sname": " Noruega"
+    },
+    {
+      "name": "Nepal",
+      "emoji": "🇳🇵",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NP.svg",
+      "sname": " Nepal"
+    },
+    {
+      "name": "Nauru",
+      "emoji": "🇳🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NR.svg",
+      "sname": " Nauru"
+    },
+    {
+      "name": "Niue",
+      "emoji": "🇳🇺",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NU.svg",
+      "sname": " Niue"
+    },
+    {
+      "name": "New Zealand",
+      "emoji": "🇳🇿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NZ.svg",
+      "sname": " Nueva Zelanda"
+    },
+    {
+      "name": "Oman",
+      "emoji": "🇴🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/OM.svg",
+      "sname": " Omán"
+    },
+    {
+      "name": "Panama",
+      "emoji": "🇵🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PA.svg",
+      "sname": " Panamá"
+    },
+    {
+      "name": "Peru",
+      "emoji": "🇵🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PE.svg",
+      "sname": " Perú"
+    },
+    {
+      "name": "French Polynesia",
+      "emoji": "🇵🇫",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PF.svg",
+      "sname": " Polinesia Francesa"
+    },
+    {
+      "name": "Papua New Guinea",
+      "emoji": "🇵🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PG.svg",
+      "sname": " Papúa Nueva Guinea"
+    },
+    {
+      "name": "Philippines",
+      "emoji": "🇵🇭",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PH.svg",
+      "sname": " Filipinas"
+    },
+    {
+      "name": "Pakistan",
+      "emoji": "🇵🇰",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PK.svg",
+      "sname": " Pakistán"
+    },
+    {
+      "name": "Poland",
+      "emoji": "🇵🇱",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg",
+      "sname": " Polonia"
+    },
+    {
+      "name": "St. Pierre & Miquelon",
+      "emoji": "🇵🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PM.svg",
+      "sname": " St. Pierre &amp; Miquelon"
+    },
+    {
+      "name": "Pitcairn Islands",
+      "emoji": "🇵🇳",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PN.svg",
+      "sname": " Islas Pitcairn"
+    },
+    {
+      "name": "Puerto Rico",
+      "emoji": "🇵🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PR.svg",
+      "sname": " Puerto Rico"
+    },
+    {
+      "name": "Palestinian Territories",
+      "emoji": "🇵🇸",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PS.svg",
+      "sname": " Territorios Palestinos"
+    },
+    {
+      "name": "Portugal",
+      "emoji": "🇵🇹",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PT.svg",
+      "sname": " Portugal"
+    },
+    {
+      "name": "Palau",
+      "emoji": "🇵🇼",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PW.svg",
+      "sname": " Palau"
+    },
+    {
+      "name": "Paraguay",
+      "emoji": "🇵🇾",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PY.svg",
+      "sname": " Paraguay"
+    },
+    {
+      "name": "Qatar",
+      "emoji": "🇶🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/QA.svg",
+      "sname": " Qatar"
+    },
+    {
+      "name": "Réunion",
+      "emoji": "🇷🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RE.svg",
+      "sname": " Reunión"
+    },
+    {
+      "name": "Romania",
+      "emoji": "🇷🇴",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RO.svg",
+      "sname": " Rumania"
+    },
+    {
+      "name": "Serbia",
+      "emoji": "🇷🇸",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RS.svg",
+      "sname": " Serbia"
+    },
+    {
+      "name": "Russia",
+      "emoji": "🇷🇺",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RU.svg",
+      "sname": " Rusia"
+    },
+    {
+      "name": "Rwanda",
+      "emoji": "🇷🇼",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RW.svg",
+      "sname": " Ruanda"
+    },
+    {
+      "name": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SA.svg",
+      "sname": " Arabia Saudita"
+    },
+    {
+      "name": "Solomon Islands",
+      "emoji": "🇸🇧",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SB.svg",
+      "sname": " Islas Salomón"
+    },
+    {
+      "name": "Seychelles",
+      "emoji": "🇸🇨",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SC.svg",
+      "sname": " Seychelles"
+    },
+    {
+      "name": "Sudan",
+      "emoji": "🇸🇩",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SD.svg",
+      "sname": " Sudán"
+    },
+    {
+      "name": "Sweden",
+      "emoji": "🇸🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SE.svg",
+      "sname": " Suecia"
+    },
+    {
+      "name": "Singapore",
+      "emoji": "🇸🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SG.svg",
+      "sname": " Singapur"
+    },
+    {
+      "name": "St. Helena",
+      "emoji": "🇸🇭",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SH.svg",
+      "sname": " St. Helena"
+    },
+    {
+      "name": "Slovenia",
+      "emoji": "🇸🇮",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SI.svg",
+      "sname": " Eslovenia"
+    },
+    {
+      "name": "Svalbard & Jan Mayen",
+      "emoji": "🇸🇯",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SJ.svg",
+      "sname": " Svalbard y Jan Mayen"
+    },
+    {
+      "name": "Slovakia",
+      "emoji": "🇸🇰",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SK.svg",
+      "sname": " Eslovaquia"
+    },
+    {
+      "name": "Sierra Leone",
+      "emoji": "🇸🇱",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SL.svg",
+      "sname": " Sierra Leona"
+    },
+    {
+      "name": "San Marino",
+      "emoji": "🇸🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SM.svg",
+      "sname": " San Marino"
+    },
+    {
+      "name": "Senegal",
+      "emoji": "🇸🇳",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg",
+      "sname": " Senegal"
+    },
+    {
+      "name": "Somalia",
+      "emoji": "🇸🇴",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SO.svg",
+      "sname": " Somalia"
+    },
+    {
+      "name": "Suriname",
+      "emoji": "🇸🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SR.svg",
+      "sname": " Surinam"
+    },
+    {
+      "name": "South Sudan",
+      "emoji": "🇸🇸",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SS.svg",
+      "sname": " Sudán del Sur"
+    },
+    {
+      "name": "São Tomé & Príncipe",
+      "emoji": "🇸🇹",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ST.svg",
+      "sname": " Santo Tomé y Príncipe"
+    },
+    {
+      "name": "El Salvador",
+      "emoji": "🇸🇻",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SV.svg",
+      "sname": " El Salvador"
+    },
+    {
+      "name": "Sint Maarten",
+      "emoji": "🇸🇽",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SX.svg",
+      "sname": " Sint Maarten"
+    },
+    {
+      "name": "Syria",
+      "emoji": "🇸🇾",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SY.svg",
+      "sname": " Siria"
+    },
+    {
+      "name": "Eswatini",
+      "emoji": "🇸🇿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SZ.svg",
+      "sname": " Eswatini"
+    },
+    {
+      "name": "Tristan da Cunha",
+      "emoji": "🇹🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TA.svg",
+      "sname": " Tristan da Cunha"
+    },
+    {
+      "name": "Turks & Caicos Islands",
+      "emoji": "🇹🇨",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TC.svg",
+      "sname": " Islas Turcas y Caicos"
+    },
+    {
+      "name": "Chad",
+      "emoji": "🇹🇩",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TD.svg",
+      "sname": " Chad"
+    },
+    {
+      "name": "French Southern Territories",
+      "emoji": "🇹🇫",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TF.svg",
+      "sname": " Territorios Australes Franceses"
+    },
+    {
+      "name": "Togo",
+      "emoji": "🇹🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TG.svg",
+      "sname": " Togo"
+    },
+    {
+      "name": "Thailand",
+      "emoji": "🇹🇭",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TH.svg",
+      "sname": " Tailandia"
+    },
+    {
+      "name": "Tajikistan",
+      "emoji": "🇹🇯",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TJ.svg",
+      "sname": " Tayikistán"
+    },
+    {
+      "name": "Tokelau",
+      "emoji": "🇹🇰",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TK.svg",
+      "sname": " Tokelau"
+    },
+    {
+      "name": "Timor-Leste",
+      "emoji": "🇹🇱",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TL.svg",
+      "sname": " Timor-Leste"
+    },
+    {
+      "name": "Turkmenistan",
+      "emoji": "🇹🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TM.svg",
+      "sname": " Turkmenistán"
+    },
+    {
+      "name": "Tunisia",
+      "emoji": "🇹🇳",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TN.svg",
+      "sname": " Túnez"
+    },
+    {
+      "name": "Tonga",
+      "emoji": "🇹🇴",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TO.svg",
+      "sname": " Tonga"
+    },
+    {
+      "name": "Turkey",
+      "emoji": "🇹🇷",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TR.svg",
+      "sname": " Turquía"
+    },
+    {
+      "name": "Trinidad & Tobago",
+      "emoji": "🇹🇹",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TT.svg",
+      "sname": " Trinidad y Tobago"
+    },
+    {
+      "name": "Tuvalu",
+      "emoji": "🇹🇻",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TV.svg",
+      "sname": " Tuvalu"
+    },
+    {
+      "name": "Taiwan",
+      "emoji": "🇹🇼",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TW.svg",
+      "sname": " Taiwán"
+    },
+    {
+      "name": "Tanzania",
+      "emoji": "🇹🇿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TZ.svg",
+      "sname": " Tanzania"
+    },
+    {
+      "name": "Ukraine",
+      "emoji": "🇺🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UA.svg",
+      "sname": " Ucrania"
+    },
+    {
+      "name": "Uganda",
+      "emoji": "🇺🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UG.svg",
+      "sname": " Uganda"
+    },
+    {
+      "name": "U.S. Outlying Islands",
+      "emoji": "🇺🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UM.svg",
+      "sname": " Islas Periféricas de EE. UU."
+    },
+    {
+      "name": "United Nations",
+      "emoji": "🇺🇳",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UN.svg",
+      "sname": " Naciones Unidas"
+    },
+    {
+      "name": "United States",
+      "emoji": "🇺🇸",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+      "sname": " Estados Unidos"
+    },
+    {
+      "name": "Uruguay",
+      "emoji": "🇺🇾",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UY.svg",
+      "sname": " Uruguay"
+    },
+    {
+      "name": "Uzbekistan",
+      "emoji": "🇺🇿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UZ.svg",
+      "sname": "Uzbekistán"
+    },
+    {
+      "name": "Vatican City",
+      "emoji": "🇻🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VA.svg",
+      "sname": "Ciudad del Vaticano"
+    },
+    {
+      "name": "St. Vincent & Grenadines",
+      "emoji": "🇻🇨",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VC.svg",
+      "sname": "St. Vincent &amp; Grenadines"
+    },
+    {
+      "name": "Venezuela",
+      "emoji": "🇻🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VE.svg",
+      "sname": "Venezuela"
+    },
+    {
+      "name": "British Virgin Islands",
+      "emoji": "🇻🇬",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VG.svg",
+      "sname": "British Virgin Islands"
+    },
+    {
+      "name": "U.S. Virgin Islands",
+      "emoji": "🇻🇮",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VI.svg",
+      "sname": "US Virgin Islands"
+    },
+    {
+      "name": "Vietnam",
+      "emoji": "🇻🇳",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VN.svg",
+      "sname": "Vietnam"
+    },
+    {
+      "name": "Vanuatu",
+      "emoji": "🇻🇺",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VU.svg",
+      "sname": "Vanuatu"
+    },
+    {
+      "name": "Wallis & Futuna",
+      "emoji": "🇼🇫",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WF.svg",
+      "sname": "Wallis &amp; Futuna"
+    },
+    {
+      "name": "Samoa",
+      "emoji": "🇼🇸",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WS.svg",
+      "sname": "Samoa"
+    },
+    {
+      "name": "Kosovo",
+      "emoji": "🇽🇰",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/XK.svg",
+      "sname": "Kosovo"
+    },
+    {
+      "name": "Yemen",
+      "emoji": "🇾🇪",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YE.svg",
+      "sname": "Yemen"
+    },
+    {
+      "name": "Mayotte",
+      "emoji": "🇾🇹",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YT.svg",
+      "sname": "Mayotte"
+    },
+    {
+      "name": "South Africa",
+      "emoji": "🇿🇦",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZA.svg",
+      "sname": "Sudáfrica"
+    },
+    {
+      "name": "Zambia",
+      "emoji": "🇿🇲",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZM.svg",
+      "sname": "Zambia"
+    },
+    {
+      "name": "Zimbabwe",
+      "emoji": "🇿🇼",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZW.svg",
+      "sname": "Zimbabwe"
+    },
+    {
+      "name": "England",
+      "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ENGLAND.svg",
+      "sname": "Inglaterra"
+    },
+    {
+      "name": "Scotland",
+      "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SCOTLAND.svg",
+      "sname": "Escocia"
+    },
+    {
+      "name": "Wales",
+      "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WALES.svg",
+      "sname": "Gales"
+    }
+  ]

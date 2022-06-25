@@ -1,0 +1,1218 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/0cb0f7c4-7103-588b-b552-82c29bb87c77",
+            "url": "https://www.nytimes.com/2022/05/19/world/europe/russia-bucha-ukraine-executions.html",
+            "id": 100000008342502,
+            "asset_id": 100000008342502,
+            "source": "New York Times",
+            "published_date": "2022-05-19",
+            "updated": "2022-05-22 22:09:52",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "your-feed-visual-investigations;Russian Invasion of Ukraine (2022);Defense and Military Forces;War Crimes, Genocide and Crimes Against Humanity",
+            "column": null,
+            "byline": "By Yousur Al-Hlou, Masha Froliak, Evan Hill, Malachy Browne and David Botti",
+            "type": "Article",
+            "title": "New Evidence Shows How Russian Soldiers Executed Men in Bucha",
+            "abstract": "Witness testimony and videos obtained by The New York Times show how Russian paratroopers executed at least eight Ukrainian men in a Kyiv suburb on March 4, a potential war crime.",
+            "des_facet": [
+                "your-feed-visual-investigations",
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces",
+                "War Crimes, Genocide and Crimes Against Humanity"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/15/world/europe/Y144-TOP-ART_cover1/Y144-TOP-ART_cover1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/15/world/europe/Y144-TOP-ART_cover1/Y144-TOP-ART_cover1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/15/world/europe/Y144-TOP-ART_cover1/Y144-TOP-ART_cover1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c48b97cc-9d32-5ee8-bc65-0407f4f1e55a",
+            "url": "https://www.nytimes.com/2022/05/22/us/reading-teaching-curriculum-phonics.html",
+            "id": 100000008310930,
+            "asset_id": 100000008310930,
+            "source": "New York Times",
+            "published_date": "2022-05-22",
+            "updated": "2022-05-22 15:26:06",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Reading and Writing Skills (Education);Illiteracy;Dyslexia;Education (K-12);Teachers and School Employees;Content Type: Personal Profile;Calkins, Lucy;Teachers College of Columbia University",
+            "column": null,
+            "byline": "By Dana Goldstein",
+            "type": "Article",
+            "title": "In the Fight Over How to Teach Reading, This Guru Makes a Major Retreat",
+            "abstract": "Lucy Calkins, a leading literacy expert, has rewritten her curriculum to include a fuller embrace of phonics and the science of reading. Critics may not be appeased.",
+            "des_facet": [
+                "Reading and Writing Skills (Education)",
+                "Illiteracy",
+                "Dyslexia",
+                "Education (K-12)",
+                "Teachers and School Employees",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "Teachers College of Columbia University"
+            ],
+            "per_facet": [
+                "Calkins, Lucy"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lucy Calkins, an education professor, created a popular curriculum called “Units of Study,” built on a vision of children as natural readers and writers.",
+                    "copyright": "Evelyn Freja for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/19/us/00phonics-1/merlin_205625994_89c58573-9a0a-461e-9fa9-75ef645ea7be-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/19/us/00phonics-1/merlin_205625994_89c58573-9a0a-461e-9fa9-75ef645ea7be-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/19/us/00phonics-1/merlin_205625994_89c58573-9a0a-461e-9fa9-75ef645ea7be-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d2444c94-16ce-55e0-aa1a-d89e88d0bdc3",
+            "url": "https://www.nytimes.com/2022/05/26/us/irma-garcia-husband-death-uvalde.html",
+            "id": 100000008369475,
+            "asset_id": 100000008369475,
+            "source": "New York Times",
+            "published_date": "2022-05-26",
+            "updated": "2022-05-27 11:41:24",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Uvalde, Tex, Shooting (May 24, 2022);Teachers and School Employees;Robb Elementary School (Uvalde, Tex);Uvalde (Tex)",
+            "column": null,
+            "byline": "By Eduardo Medina",
+            "type": "Article",
+            "title": "The husband of a teacher killed in the massacre has died of a heart attack.",
+            "abstract": "The couple had been married for 24 years and had four children, with the oldest 23 and the others teenagers.",
+            "des_facet": [
+                "Uvalde, Tex, Shooting (May 24, 2022)",
+                "Teachers and School Employees"
+            ],
+            "org_facet": [
+                "Robb Elementary School (Uvalde, Tex)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Uvalde (Tex)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joe Garcia and his wife, Irma Garcia. Mr. Garcia died of a heart attack two days after his wife was killed in the shooting at Robb Elementary School in Uvalde. ",
+                    "copyright": " ",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/26/us/26uvalde-shooting-joe-garcia-1/26uvalde-shooting-joe-garcia-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/26/us/26uvalde-shooting-joe-garcia-1/26uvalde-shooting-joe-garcia-1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/26/us/26uvalde-shooting-joe-garcia-1/26uvalde-shooting-joe-garcia-1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/cba553d7-2ebc-597f-bd74-de3f617296e0",
+            "url": "https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html",
+            "id": 100000002615736,
+            "asset_id": 100000002615736,
+            "source": "New York Times",
+            "published_date": "2013-12-21",
+            "updated": "2022-04-07 15:30:35",
+            "section": "The Upshot",
+            "subsection": "",
+            "nytdsection": "the upshot",
+            "adx_keywords": "Language and Languages;English Language",
+            "column": null,
+            "byline": "By Josh Katz and Wilson Andrews",
+            "type": "Interactive",
+            "title": "How Y’all, Youse and You Guys Talk",
+            "abstract": "What does the way you speak say about where you’re from? Answer all the questions below to see your personal dialect map.",
+            "des_facet": [
+                "Language and Languages",
+                "English Language"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2016/11/24/us/map-dialect/map-dialect-thumbStandard-v2.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2016/11/24/us/map-dialect/map-dialect-mediumThreeByTwo210-v2.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2016/11/24/us/map-dialect/map-dialect-mediumThreeByTwo440-v2.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7dc80090-d598-5d91-8dc7-dd1d11b07a5a",
+            "url": "https://www.nytimes.com/2022/05/22/us/jif-recall-peanut-butter.html",
+            "id": 100000008361931,
+            "asset_id": 100000008361931,
+            "source": "New York Times",
+            "published_date": "2022-05-22",
+            "updated": "2022-05-23 18:04:48",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Food Contamination and Poisoning;Salmonella (Bacteria);Peanut Butter;Recalls and Bans of Products;Food and Drug Administration;JM Smucker Company",
+            "column": null,
+            "byline": "By Livia Albeck-Ripka",
+            "type": "Article",
+            "title": "Several Jif Peanut Butter Products Recalled Over Potential Salmonella",
+            "abstract": "The J.M. Smucker Company said it initiated a voluntary recall and advised consumers to dispose of some potentially contaminated products.",
+            "des_facet": [
+                "Food Contamination and Poisoning",
+                "Salmonella (Bacteria)",
+                "Peanut Butter",
+                "Recalls and Bans of Products"
+            ],
+            "org_facet": [
+                "Food and Drug Administration",
+                "JM Smucker Company"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Jif products voluntarily recalled include several types of creamy, crunchy, reduced-fat and natural peanut butter in various sizes.",
+                    "copyright": "Paul Hennessy/SOPA Images, via AP Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/multimedia/22xp-jif-recall/22xp-jif-recall-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/multimedia/22xp-jif-recall/22xp-jif-recall-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/multimedia/22xp-jif-recall/22xp-jif-recall-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a4abccdf-aeeb-54ee-a67a-cf63b061345d",
+            "url": "https://www.nytimes.com/2022/05/22/nyregion/nyc-subway-shooting.html",
+            "id": 100000008361966,
+            "asset_id": 100000008361966,
+            "source": "New York Times",
+            "published_date": "2022-05-22",
+            "updated": "2022-05-24 16:45:45",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Murders, Attempted Murders and Homicides;Subways;Adams, Eric L;Enriquez, Daniel (d 2022);Manhattan (NYC);New York City",
+            "column": null,
+            "byline": "By Ashley Southall and Nate Schweber",
+            "type": "Article",
+            "title": "Man Fatally Shot on Manhattan Subway in Unprovoked Attack",
+            "abstract": "A gunman shot and killed Daniel Enriquez, 48, on a Q train in Lower Manhattan on Sunday. “It’s horrific, this is a horror movie,” his sister said.",
+            "des_facet": [
+                "Murders, Attempted Murders and Homicides",
+                "Subways"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Adams, Eric L",
+                "Enriquez, Daniel (d 2022)"
+            ],
+            "geo_facet": [
+                "Manhattan (NYC)",
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daniel Enriquez, 48, was shot in the chest by a gunman while riding a Q train on Sunday.",
+                    "copyright": "via Griselda Vile",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/nyregion/22ny-subway-shot-promo/22ny-subway-shot-victim-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/nyregion/22ny-subway-shot-promo/22ny-subway-shot-promo-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/nyregion/22ny-subway-shot-promo/22ny-subway-shot-promo-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ea66b995-89eb-5515-bb40-e1fdc4255921",
+            "url": "https://www.nytimes.com/2022/05/19/us/princeton-professor-joshua-katz.html",
+            "id": 100000008354272,
+            "asset_id": 100000008354272,
+            "source": "New York Times",
+            "published_date": "2022-05-19",
+            "updated": "2022-05-23 18:05:16",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Colleges and Universities;Freedom of Speech and Expression;Race and Ethnicity;George Floyd Protests (2020);Katz, Joshua T (1969- );Eisgruber, Christopher L;Princeton University",
+            "column": null,
+            "byline": "By Anemona Hartocollis",
+            "type": "Article",
+            "title": "After Campus Uproar, Princeton Proposes to Fire Tenured Professor",
+            "abstract": "Joshua Katz says he was targeted because of his criticism of a campus protest group. A university report says the concerns are related to his inappropriate conduct with a female student.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Freedom of Speech and Expression",
+                "Race and Ethnicity",
+                "George Floyd Protests (2020)"
+            ],
+            "org_facet": [
+                "Princeton University"
+            ],
+            "per_facet": [
+                "Katz, Joshua T (1969- )",
+                "Eisgruber, Christopher L"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The controversy around Joshua Katz, a classics professor, has divided the Princeton campus. He has become a cause célèbre among conservative columnists.",
+                    "copyright": "Solveig Gold",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/19/us/19Princeton-Katz/19Princeton-Katz-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/19/us/19Princeton-Katz/19Princeton-Katz-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/19/us/19Princeton-Katz/19Princeton-Katz-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/890397bd-db31-5bad-8b12-5a395bb2fe4b",
+            "url": "https://www.nytimes.com/2022/05/25/us/politics/trump-pence-jan-6.html",
+            "id": 100000008367234,
+            "asset_id": 100000008367234,
+            "source": "New York Times",
+            "published_date": "2022-05-25",
+            "updated": "2022-05-25 23:50:24",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Storming of the US Capitol (Jan, 2021);Presidential Election of 2020;United States Politics and Government;Trump, Donald J;Pence, Mike;Meadows, Mark R (1959- )",
+            "column": null,
+            "byline": "By Maggie Haberman and Luke Broadwater",
+            "type": "Article",
+            "title": "Trump Said to Have Reacted Approvingly to Jan. 6 Chants About Hanging Pence",
+            "abstract": "The House committee investigating the Capitol assault has heard accounts of the former president’s remarks as he watched the riot unfold on television.",
+            "des_facet": [
+                "Storming of the US Capitol (Jan, 2021)",
+                "Presidential Election of 2020",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "Pence, Mike",
+                "Meadows, Mark R (1959- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vice President Mike Pence resisted pressure to block or delay certification of the Electoral College results of Joseph R. Biden Jr.’s victory in the 2020 election.",
+                    "copyright": "Jacob Langston for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/25/us/politics/25dc-pence/merlin_201361761_50687a2d-dca4-4598-ad92-6e6e5f0604b0-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/25/us/politics/25dc-pence/25dc-pence-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/25/us/politics/25dc-pence/25dc-pence-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/28adf522-428c-5c1c-acd5-70035b802ab4",
+            "url": "https://www.nytimes.com/2022/05/26/movies/ray-liotta-dead.html",
+            "id": 100000008369137,
+            "asset_id": 100000008369137,
+            "source": "New York Times",
+            "published_date": "2022-05-26",
+            "updated": "2022-05-27 09:29:25",
+            "section": "Movies",
+            "subsection": "",
+            "nytdsection": "movies",
+            "adx_keywords": "Deaths (Obituaries);Movies;Television;Actors and Actresses;Liotta, Ray",
+            "column": null,
+            "byline": "By Neil Genzlinger",
+            "type": "Article",
+            "title": "Ray Liotta, of ‘Goodfellas’ and ‘Field of Dreams,’ Dies at 67",
+            "abstract": "He was known for his intensity, especially in crime dramas, but he was also adept at comedy. “You want to do as many different genres as you can,” he once said.",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Movies",
+                "Television",
+                "Actors and Actresses"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Liotta, Ray"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ray Liotta in the 2005 film \"Revolver,\" directed by Guy Ritchie.",
+                    "copyright": "Samuel Goldwyn Films",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/26/books/26liotta-image1/26liotta-image1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/26/books/26liotta-image1/26liotta-image1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/26/books/26liotta-image1/26liotta-image1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e8a1fe1f-f6e0-5266-9dba-c68d377f27e3",
+            "url": "https://www.nytimes.com/2022/05/24/health/long-covid-infections.html",
+            "id": 100000008365678,
+            "asset_id": 100000008365678,
+            "source": "New York Times",
+            "published_date": "2022-05-24",
+            "updated": "2022-05-27 10:05:12",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Long Covid;Coronavirus (2019-nCoV);Research;Centers for Disease Control and Prevention;United States",
+            "column": null,
+            "byline": "By Pam Belluck",
+            "type": "Article",
+            "title": "More than 1 in 5 adult Covid survivors in the U.S. may develop long Covid, a C.D.C. study suggests.",
+            "abstract": "Researchers identified lasting health problems in many different organ systems, including the heart, lungs and kidneys.",
+            "des_facet": [
+                "Long Covid",
+                "Coronavirus (2019-nCoV)",
+                "Research"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John Gillotte of New York City was infected with Covid in March 2020. After being hospitalized and on a ventilator for five days, he then experienced long Covid symptoms that lasted for months.",
+                    "copyright": "Joshua Bright for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/24/science/24virus-brief-long-covid/24virus-brief-long-covid-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/24/science/24virus-brief-long-covid/24virus-brief-long-covid-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/24/science/24virus-brief-long-covid/24virus-brief-long-covid-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/99466ccf-478a-5f40-b4e4-4c33e62ff792",
+            "url": "https://www.nytimes.com/2022/05/22/arts/television/saturday-night-live-pete-davidson-kate-mckinnon.html",
+            "id": 100000008361727,
+            "asset_id": 100000008361727,
+            "source": "New York Times",
+            "published_date": "2022-05-22",
+            "updated": "2022-05-22 23:22:38",
+            "section": "Arts",
+            "subsection": "Television",
+            "nytdsection": "arts",
+            "adx_keywords": "Television;Bryant, Aidy;Davidson, Pete (1993- );McKinnon, Kate",
+            "column": null,
+            "byline": "By Dave Itzkoff",
+            "type": "Article",
+            "title": "‘S.N.L.’ Says Goodbye to Multiple Cast Members",
+            "abstract": "Kate McKinnon, Pete Davidson and Aidy Bryant each got to take a victory lap in a “Saturday Night Live” season finale hosted by Natasha Lyonne.",
+            "des_facet": [
+                "Television"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Bryant, Aidy",
+                "Davidson, Pete (1993- )",
+                "McKinnon, Kate"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NBC",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/multimedia/22snl-socialswap-02/22snl-socialswap-02-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/multimedia/22snl-socialswap-02/22snl-socialswap-02-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/abb6fe7a-28ae-5eb8-9fb3-fc19c495dfef",
+            "url": "https://www.nytimes.com/2022/05/22/business/media/lara-logan-cbs-news.html",
+            "id": 100000008322480,
+            "asset_id": 100000008322480,
+            "source": "New York Times",
+            "published_date": "2022-05-22",
+            "updated": "2022-05-24 11:48:48",
+            "section": "Business",
+            "subsection": "Media",
+            "nytdsection": "business",
+            "adx_keywords": "News and News Media;Television;Right-Wing Extremism and Alt-Right;Conspiracy Theories;Content Type: Personal Profile;Logan, Lara;CBS News;Fox Nation",
+            "column": null,
+            "byline": "By Jeremy W. Peters",
+            "type": "Article",
+            "title": "Lara Logan, Once a Star at CBS News, Is Now One for the Far Right",
+            "abstract": "The former chief foreign affairs correspondent is now a popular guest on podcasts hosted by vaccine skeptics and deniers of the 2020 election.",
+            "des_facet": [
+                "News and News Media",
+                "Television",
+                "Right-Wing Extremism and Alt-Right",
+                "Conspiracy Theories",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "CBS News",
+                "Fox Nation"
+            ],
+            "per_facet": [
+                "Logan, Lara"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lara Logan in 2016. Some of her former CBS News colleagues recalled that when they worked together, her politics were not always easy to categorize.",
+                    "copyright": "Amanda Friedman/Trunk Archive",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/06/business/00logan/00logan-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/06/business/00logan/00logan-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/06/business/00logan/00logan-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8c23459c-5571-5f8e-bc2a-4247a3e6db6f",
+            "url": "https://www.nytimes.com/2022/05/20/world/americas/haiti-history-colonized-france.html",
+            "id": 100000008100489,
+            "asset_id": 100000008100489,
+            "source": "New York Times",
+            "published_date": "2022-05-20",
+            "updated": "2022-05-26 13:32:25",
+            "section": "World",
+            "subsection": "Americas",
+            "nytdsection": "world",
+            "adx_keywords": "Slavery (Historical);Colonization;Coffee;Economic Conditions and Trends;Poverty;Politics and Government;Reparations;International Relations;Haiti;France",
+            "column": null,
+            "byline": "By Catherine Porter, Constant Méheut, Matt Apuzzo and Selam Gebrekidan",
+            "type": "Article",
+            "title": "The Root of Haiti’s Misery: Reparations to Enslavers",
+            "abstract": "In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now.",
+            "des_facet": [
+                "Slavery (Historical)",
+                "Colonization",
+                "Coffee",
+                "Economic Conditions and Trends",
+                "Poverty",
+                "Politics and Government",
+                "Reparations",
+                "International Relations"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Haiti",
+                "France"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An illustration depicting plantations burning in 1791, during the Haitian Revolution.",
+                    "copyright": "Universal Images Group, via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/world/00haiti-1791/00haiti-1791-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/world/00haiti-1791/00haiti-1791-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/world/00haiti-1791/00haiti-1791-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ddaacfbc-d04d-5725-acf2-7fa7ae86f34c",
+            "url": "https://www.nytimes.com/2022/05/18/opinion/amber-heard-metoo.html",
+            "id": 100000008355739,
+            "asset_id": 100000008355739,
+            "source": "New York Times",
+            "published_date": "2022-05-18",
+            "updated": "2022-05-20 01:01:48",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Domestic Violence;Suits and Litigation (Civil);Libel and Slander;#MeToo Movement;Women and Girls;Sex Crimes;Women's Rights;Depp, Johnny;Heard, Amber",
+            "column": null,
+            "byline": "By Michelle Goldberg",
+            "type": "Article",
+            "title": "Amber Heard and the Death of #MeToo",
+            "abstract": "The actress is being subjected to industrial-scale bullying.",
+            "des_facet": [
+                "Domestic Violence",
+                "Suits and Litigation (Civil)",
+                "Libel and Slander",
+                "#MeToo Movement",
+                "Women and Girls",
+                "Sex Crimes",
+                "Women's Rights"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Depp, Johnny",
+                "Heard, Amber"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pool photo by Brendan Smialowski",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/18/opinion/18goldberg1/18goldberg1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/18/opinion/18goldberg1/18goldberg1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/18/opinion/18goldberg1/18goldberg1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a26cc021-ce2f-544a-9428-b6eca75802f4",
+            "url": "https://www.nytimes.com/2022/05/20/opinion/johnny-depp-amber-heard-social-media-sexism.html",
+            "id": 100000008348364,
+            "asset_id": 100000008348364,
+            "source": "New York Times",
+            "published_date": "2022-05-20",
+            "updated": "2022-05-23 13:33:09",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Women and Girls;Discrimination;Polls and Public Opinion;Libel and Slander;Suits and Litigation (Civil);#MeToo Movement;Celebrities;Social Media;Heard, Amber;Depp, Johnny",
+            "column": null,
+            "byline": "By Jessica Bennett",
+            "type": "Article",
+            "title": "Why We Love to Watch a Woman Brought Low",
+            "abstract": "Whatever you think of the actress Amber Heard, what we are watching is a good old-fashioned public pillorying; the only difference is that memes have replaced the stones.",
+            "des_facet": [
+                "Women and Girls",
+                "Discrimination",
+                "Polls and Public Opinion",
+                "Libel and Slander",
+                "Suits and Litigation (Civil)",
+                "#MeToo Movement",
+                "Celebrities",
+                "Social Media"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Heard, Amber",
+                "Depp, Johnny"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Jaya Miceli; pool photographs by Steve Helber and Jim Lo Scalzo",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/opinion/21bennet/21bennet-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/opinion/21bennet/21bennet-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/22/opinion/21bennet/21bennet-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/be358c52-7a35-5ce1-84df-78cacaa34603",
+            "url": "https://www.nytimes.com/2022/05/20/us/lake-mead-bodies-climate-change.html",
+            "id": 100000008340616,
+            "asset_id": 100000008340616,
+            "source": "New York Times",
+            "published_date": "2022-05-20",
+            "updated": "2022-05-23 19:57:16",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Organized Crime;Murders, Attempted Murders and Homicides;Forensic Science;Reservoirs;Global Warming;Drought;Las Vegas (Nev);Lake Mead",
+            "column": null,
+            "byline": "By Simon Romero",
+            "type": "Article",
+            "title": "Bodies Pulled From Parched Lake Mead Stir Wise-Guy Ghosts of Las Vegas",
+            "abstract": "As climate change fuels grim discoveries across the West, Las Vegas is awash in bets on the identity of a suspected murder victim dumped in a barrel.",
+            "des_facet": [
+                "Organized Crime",
+                "Murders, Attempted Murders and Homicides",
+                "Forensic Science",
+                "Reservoirs",
+                "Global Warming",
+                "Drought"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Las Vegas (Nev)",
+                "Lake Mead"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dropping water levels in Lake Mead, above the Hoover Dam, revealed human remains that have probably been hidden for decades.",
+                    "copyright": "Joe Buglewicz for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/16/us/00csi-climate-top/00csi-climate-top-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/16/us/00csi-climate-top/merlin_206748747_b81a3303-f7b8-47ab-99de-8b40ae04fef9-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/16/us/00csi-climate-top/merlin_206748747_b81a3303-f7b8-47ab-99de-8b40ae04fef9-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/01ef87e4-c120-5d93-bc91-38c21dcd8870",
+            "url": "https://www.nytimes.com/2022/05/22/opinion/biden-trump-republicans-democrats.html",
+            "id": 100000008359465,
+            "asset_id": 100000008359465,
+            "source": "New York Times",
+            "published_date": "2022-05-22",
+            "updated": "2022-05-23 21:06:01",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Storming of the US Capitol (Jan, 2021);Presidential Election of 2024;United States Politics and Government;Biden, Joseph R Jr;Democratic Party;Republican Party",
+            "column": null,
+            "byline": "By Thomas L. Friedman",
+            "type": "Article",
+            "title": "My Lunch With President Biden",
+            "abstract": "I left with a full stomach but a heavy heart.",
+            "des_facet": [
+                "Storming of the US Capitol (Jan, 2021)",
+                "Presidential Election of 2024",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kenny Holston for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/23/opinion/22friedman1/22friedman1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/23/opinion/22friedman1/merlin_205765677_b5458489-a0f2-4bc0-91ae-78840e61b8ee-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/23/opinion/22friedman1/merlin_205765677_b5458489-a0f2-4bc0-91ae-78840e61b8ee-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7c07f834-6dc0-514a-b79d-314fc932b225",
+            "url": "https://www.nytimes.com/2022/05/19/opinion/america-ukraine-war-support.html",
+            "id": 100000008343311,
+            "asset_id": 100000008343311,
+            "source": "New York Times",
+            "published_date": "2022-05-19",
+            "updated": "2022-05-21 16:05:09",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "United States International Relations;Russian Invasion of Ukraine (2022);Foreign Aid;Defense and Military Forces;Biden, Joseph R Jr;Putin, Vladimir V;Zelensky, Volodymyr;Senate;Russia;Ukraine",
+            "column": null,
+            "byline": "By The Editorial Board",
+            "type": "Article",
+            "title": "The War in Ukraine Is Getting Complicated, and America Isn’t Ready",
+            "abstract": "U.S. support for the war is not guaranteed.",
+            "des_facet": [
+                "United States International Relations",
+                "Russian Invasion of Ukraine (2022)",
+                "Foreign Aid",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [
+                "Senate"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Putin, Vladimir V",
+                "Zelensky, Volodymyr"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Ukraine"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Rebecca Chew/The New York Times; photograph by Chip Somodevilla/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/19/opinion/19mission-web/19mission-web-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/19/opinion/19mission-web/19mission-web-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/19/opinion/19mission-web/19mission-web-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/edba4b43-455e-51a2-b716-441bc32406da",
+            "url": "https://www.nytimes.com/2022/05/23/us/princeton-fires-joshua-katz.html",
+            "id": 100000008360661,
+            "asset_id": 100000008360661,
+            "source": "New York Times",
+            "published_date": "2022-05-23",
+            "updated": "2022-05-24 10:16:29",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Colleges and Universities;Freedom of Speech and Expression;Academic Freedom;Ethics and Official Misconduct;Katz, Joshua T (1969- );Princeton University",
+            "column": null,
+            "byline": "By Anemona Hartocollis",
+            "type": "Article",
+            "title": "Princeton Fires Tenured Professor in Campus Controversy",
+            "abstract": "Joshua Katz’s dismissal is related to his inappropriate conduct with a female student, the university said. He says criticism of a campus protest group is the issue.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Freedom of Speech and Expression",
+                "Academic Freedom",
+                "Ethics and Official Misconduct"
+            ],
+            "org_facet": [
+                "Princeton University"
+            ],
+            "per_facet": [
+                "Katz, Joshua T (1969- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joshua Katz, a classics professor, had been suspended in 2018 for a consensual sexual relationship with a student. But the university now says he was not fully honest and cooperative with that investigation.",
+                    "copyright": "Solveig Gold",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/20/us/00princeton-fired01/00princeton-fired01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/20/us/00princeton-fired01/00princeton-fired01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/20/us/00princeton-fired01/00princeton-fired01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/bffe5720-027f-5142-9bee-76b4ebeb35c9",
+            "url": "https://www.nytimes.com/2022/05/23/world/europe/us-ukraine-howitzers.html",
+            "id": 100000008362723,
+            "asset_id": 100000008362723,
+            "source": "New York Times",
+            "published_date": "2022-05-23",
+            "updated": "2022-05-24 04:04:03",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);United States International Relations;Defense and Military Forces;Donbas (Ukraine);Russia",
+            "column": null,
+            "byline": "By Andrew E. Kramer, Maria Varenikova and Ivor Prickett",
+            "type": "Article",
+            "title": "Powerful American Artillery Enters the Fight in Ukraine",
+            "abstract": "The most lethal weapons the West has provided so far to Ukraine are now deployed in combat. Will they make a critical difference for Ukraine’s military in a war that has mostly become an artillery battle?",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "United States International Relations",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Donbas (Ukraine)",
+                "Russia"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A gun crew of the 55th Separate Artillery Brigade of Ukraine’s Armed Forces, fired a Howitzer M777 155mm artillery piece towards Russian positions in the Donetsk region of Ukraine.",
+                    "copyright": "Ivor Prickett for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/23/world/23ukraine-howitzers-promo/23ukraine-howitzers-top-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/23/world/23ukraine-howitzers-promo/23ukraine-howitzers-top-01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/05/23/world/23ukraine-howitzers-promo/23ukraine-howitzers-top-01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}

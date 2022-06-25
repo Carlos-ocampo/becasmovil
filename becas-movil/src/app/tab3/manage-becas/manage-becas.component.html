@@ -1,0 +1,59 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-button color="medium" (click)="cancel()">Cancelar</ion-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button (click)="confirm()">
+        <span *ngIf="updateStatus">Actualizar</span>
+        <span *ngIf="!updateStatus">Guardar</span>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+<ion-item> {{ tituloAccion }}</ion-item>
+
+<ion-content class="ion-padding">
+  <ion-item *ngIf="updateStatus">
+    <ion-label position="stacked">ID</ion-label>
+    <ion-input [(ngModel)]="id" placeholder="ID" disabled="true"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-label position="stacked">Nombre Uni</ion-label>
+    <ion-input [(ngModel)]="name" placeholder="Nombre Uni"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-label position="stacked">Porcentaje</ion-label>
+    <ion-input [(ngModel)]="porcentaje" step="0.1" placeholder="Porcentaje" type="number" max="100" min="0"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label position="stacked">Requicitos</ion-label>
+    <ion-textarea [(ngModel)]="requisitos" placeholder="Requicitos"></ion-textarea>
+  </ion-item>
+
+  <ion-item>
+    <ion-label position="stacked">Categoria</ion-label>
+    <ion-select interface="popover" placeholder="Categoria" [(ngModel)]="categoria">
+      <ion-select-option value="Nacional">Nacional</ion-select-option>
+      <ion-select-option value="Internacional">Internacional</ion-select-option>
+    </ion-select>
+  </ion-item>
+
+  <ion-item>
+    <ion-label position="stacked">Pais</ion-label>
+    <ion-select interface="popover" placeholder="Pais" [(ngModel)]="pais">
+      <ion-select-option *ngFor="let pais of paises" [value]="pais.id" >{{pais.nombre}}</ion-select-option>
+    </ion-select>
+  </ion-item>
+
+  <ion-item>
+    <ion-label position="stacked">Universidad</ion-label>
+    <ion-select interface="popover" placeholder="Universidad" [(ngModel)]="universidad">
+      <ion-select-option *ngFor="let uni of unis" [value]="uni.id" >{{uni.nombre}}</ion-select-option>
+    </ion-select>
+  </ion-item>
+
+  <ion-button expand="full" (click)="confirm()">Guardar</ion-button>
+  <ion-button *ngIf="updateStatus" expand="full" color="danger" (click)="deleteBeca()">Eliminar</ion-button>
+</ion-content>

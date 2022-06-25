@@ -1,0 +1,22 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Noticias NYT
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+
+  <ion-card *ngFor="let nw of news">
+    <ion-img *ngIf="beImage(nw.media)"  [src]="getImage(nw.media)"></ion-img>
+    <ion-card-header>
+      <ion-card-subtitle>{{nw.section}} - {{nw.published_date}} </ion-card-subtitle>
+      <ion-card-title>{{nw.title}}</ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      {{nw.abstract}}
+    </ion-card-content>
+  </ion-card>
+
+</ion-content>

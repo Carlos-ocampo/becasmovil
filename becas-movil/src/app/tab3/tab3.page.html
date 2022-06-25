@@ -1,0 +1,57 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Becas
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+
+  <ion-card *ngFor="let beca of becas" >
+    <ion-card-header>
+      <ion-card-subtitle class="topcard">
+        {{ formatDate( beca.updated_at) }}
+      </ion-card-subtitle>
+
+      <ion-card-title>{{ beca.nombre }}</ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      <div class="">
+        <pre>{{ beca.requisitos }}</pre>
+      </div>
+
+      <ion-card-subtitle>
+        {{getCountryName(beca.pais)}}
+      </ion-card-subtitle>
+      <ion-card-subtitle>
+        {{ getUniName(beca.universidad) }}
+      </ion-card-subtitle>
+
+    </ion-card-content>
+
+    <ion-button expand="full"  color="tertiary" size="small" scope="end" (click)="openModalEditBeca(beca.id)" class="ion-activatable ripple-parent">
+      <ion-icon  name="pencil" slot="end"></ion-icon>
+      Editar
+    </ion-button>
+  </ion-card>
+
+  <ion-list>
+
+    <!-- <ion-item *ngFor="let uni of universidades" (click)="openModalEditUni(uni.id)" class="ion-activatable ripple-parent">
+     
+      <ion-label>
+        <h2> {{uni.nombre}} </h2>
+        <p> {{uni.descripcion}} </p>
+      </ion-label>
+    </ion-item> -->
+  </ion-list>
+
+  <!-- fab placed to the top and end and on the top edge of the content overlapping header -->
+  <ion-fab vertical="top" horizontal="end" edge slot="fixed">
+    <ion-fab-button size="small" (click)="openModalCreateBeca()">
+      <ion-icon name="add"></ion-icon>
+    </ion-fab-button>
+  </ion-fab>
+
+</ion-content>

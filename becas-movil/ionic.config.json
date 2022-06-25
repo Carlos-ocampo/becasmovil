@@ -1,0 +1,7 @@
+{
+  "name": "Becas Movil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
